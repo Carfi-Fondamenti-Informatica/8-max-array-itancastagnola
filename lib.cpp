@@ -8,7 +8,7 @@ float massimo (float max[], int n, float m){
             m=max[i];
         }
     }
-    return 0;
+    return m;
 }
 
 
